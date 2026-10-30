@@ -82,6 +82,9 @@ namespace EFCORE
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
 
 
+
+
+
         }
     }
 }
